@@ -1,16 +1,46 @@
 ### Hi there 👋
+---
+### About me 😊
+----
+An enthusiastic third-year Computer Science student, I possess a natural ability to transform concepts into functional code. My programming journey has been a thrilling exploration, fueled by a passion for tackling challenges that elevate my skill set. Continuously seeking opportunities for learning, I am dedicated to embracing the artistry of software development while maintaining a fervent curiosity for what lies ahead in this dynamic field.✨
+* 🌍  I'm based in Cluj-Napoca <br>
 
-<!--
-**Andreea-Ciama/Andreea-Ciama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills** 👩‍💻
+| 🚀 Language      |
+|------------------|
+| C                |
+| C++              |
+| Python           |
+| Java             | 
+| JavaScript       | 
+| Assembly         |
+| C#               |
 
-Here are some ideas to get you started:
+| 🌐 Web Development Stack         | 
+|----------------------------------|
+| HTML                             |
+| CSS                              |
+| JavaScript                       |
+| jQuery                           |
+| AJAX                             | 
+| PHP                              | 
+| Angular                          |
+| JSP                              |
+| ASP.NET                          |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 📱 Mobile App Development         | 
+|----------------------------------|
+| Flutter                          | 
+| Kotlin                           | 
+
+| 🗄️ Database Management           | 
+|----------------------------------|
+| SQL                              | 
+
+| 🚀 Additional Skills             | 
+|----------------------------------|
+| Testing Techniques               | 
+| Computer Networks                | 
+| Operating Systems                |
+
+
